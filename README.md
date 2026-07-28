@@ -9,4 +9,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-the issue is that it says 2 contributions on 27th july but longest streak is till 26th july
