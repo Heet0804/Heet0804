@@ -3,7 +3,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Heet0804&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Heet0804&theme=dark&hide_border=false&timezone=Asia/Kolkata&v=1)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Heet0804&theme=dark)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Heet0804&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
