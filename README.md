@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heet Lakhani</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A77B6&center=true&vCenter=true&width=500&lines=Developer+%7C+Problem+Solver;Data+%26+Backend+Enthusiast;Always+Learning+Something+New" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A77B6&center=true&vCenter=true&width=500&lines=Aspiring Data Analyst +%7C+Problem+Solver;Data+%26+Enthusiast;Always+Learning+Something+New" alt="Typing intro" />
 </p>
 
 <p align="center">
